@@ -1,3 +1,3 @@
 # Uneasy Cold Coffee
 
-Candidate repository that may be used to assist recording questionable in *certain* rendering-related community.
+Candidate repository that may be used to assist recording about questionable phenomenons in *certain* rendering-related community.
